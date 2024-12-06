@@ -1,9 +1,15 @@
 # Front
 
-### npm start
+-   npm install
+
+-   npm start
 
 # Back
 
-### npm run dev:server
+**API :** [Clonez ce dépot](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API)
 
-### npm run populate-db
+-   npm install
+
+-   npm run dev:server
+
+-   npm run populate-db
